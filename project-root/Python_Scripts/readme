@@ -1,0 +1,4 @@
+  ├── data_generation/ - Synthetic data creation scripts  
+      (Simulates real-world scenarios for safe testing)  
+  └── data_pipelines/ - Automated workflows  
+      (ETL processes that clean/transform raw data)  
